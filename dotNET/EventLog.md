@@ -1,4 +1,4 @@
-```markdown
+
 # CheatSheet: Erstellung eines EventLogs
 
 ## Schritte zur Erstellung eines neuen EventLogs
@@ -103,4 +103,3 @@
        }
    }
    ```
-

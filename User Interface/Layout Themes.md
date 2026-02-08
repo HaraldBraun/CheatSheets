@@ -24,7 +24,7 @@ Hier liegen verschiedene Bereiche übereinander wie in einem Stapel Spielkarten.
 Die Komponenten werden entweder streng vertikal (untereinander) oder horizontal (nebeneinander) angeordnet, ohne Umbruch.
 * **Einsatz:** Einfache Seitenmenüs oder Login-Masken.
   
-### 6. **Das GridBagLayout (Flexibles Raster)**  
+## 6. **Das GridBagLayout (Flexibles Raster)**  
 Dies ist die komplexe Weiterentwicklung des GridLayouts. Ein Element kann mehrere Zeilen oder Spalten gleichzeitig einnehmen (z. B. ein Header, der über drei Spalten geht).
 * **Einsatz:** Komplexe Formulare oder professionelle Software-Interfaces (wie IDEs oder Videoschnittprogramme).
   
